@@ -1,0 +1,4 @@
+#Sat Jul 17 13:10:05 WIB 2021
+base.0=/home/jhomn/Documents/foores/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
